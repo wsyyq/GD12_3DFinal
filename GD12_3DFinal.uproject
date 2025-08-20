@@ -20,10 +20,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ElectraPlayer",
-			"Enabled": true
-		},
-		{
 			"Name": "BlockoutToolsPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d337b97aca8947a893526964e179acfd"
@@ -46,6 +42,17 @@
 		},
 		{
 			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		},
+		{
+			"Name": "AppleProResMedia",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "ElectraPlayer",
 			"Enabled": true
 		}
 	]
